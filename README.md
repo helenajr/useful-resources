@@ -19,5 +19,8 @@ Somewhere I can put all the helpful stuff I come across
 ### General computer science
 * [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
+### NHS and Healthcare
+* [Kings Fund - The NHS Explained](https://www.kingsfund.org.uk/leadership-development/courses/nhs-explained-course)
+
 ### Inspiration
 * [TidyTuesdays](https://github.com/rfordatascience/tidytuesday)
