@@ -24,4 +24,4 @@ Somewhere I can put all the helpful stuff I come across
 
 ### Inspiration
 * [TidyTuesdays](https://github.com/rfordatascience/tidytuesday)
-* [Open Prescribing] (https://openprescribing.net/) - Project to make publicly avaiable GP prescribing data as useful as possible.
+* [Open Prescribing](https://openprescribing.net/) - Project to make publicly avaiable GP prescribing data as useful as possible.
