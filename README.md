@@ -8,12 +8,13 @@ Somewhere I can put all the helpful stuff I come across
 * [firstcontributions](https://github.com/firstcontributions/first-contributions) - how to contribute to someone else's repo
 
 ### General R
-* [R4ds 2e](https://r4ds.hadley.nz/)
+* [R 4 Data Science 2e](https://r4ds.hadley.nz/) - the tidyverse bible, very accessible
 * [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/)
 
 ### General Python
 * [Python for Health Data Science](https://www.pythonhealthdatascience.com/content/front_page.html) - by Tom Monks
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - detail on working with pandas and numpy
+* [Python for Data Analysis](https://wesmckinney.com/book/) - has chapters on cleaning / wrangling in python
 
 ### Frameworks, checklists and coding practices
 * [Duck book](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) - Gov Analysis Function and Statistical Service
