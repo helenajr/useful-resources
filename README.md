@@ -12,7 +12,8 @@ Somewhere I can put all the helpful stuff I come across
 * [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/)
 
 ### General Python
-* [Python for Health Data Science](https://www.pythonhealthdatascience.com/content/front_page.html)
+* [Python for Health Data Science](https://www.pythonhealthdatascience.com/content/front_page.html) - by Tom Monks
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - detail on working with pandas and numpy
 
 ### Frameworks, checklists and coding practices
 * [Duck book](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) - Gov Analysis Function and Statistical Service
@@ -21,7 +22,7 @@ Somewhere I can put all the helpful stuff I come across
 * [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - very accessible stats videos
 
 ### General computer science
-* [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+* [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - big time commitment, but brilliant introduction to computer science and coding
 
 ### NHS and Healthcare
 * [Kings Fund - The NHS Explained](https://www.kingsfund.org.uk/leadership-development/courses/nhs-explained-course)
