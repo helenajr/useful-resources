@@ -18,7 +18,7 @@ Somewhere I can put all the helpful stuff I come across
 * [Duck book](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) - Gov Analysis Function and Statistical Service
 
 ### Stats and modelling
-* [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - imo the most accessible stats vids I've come across
+* [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - very accessible stats videos
 
 ### General computer science
 * [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
