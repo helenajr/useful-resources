@@ -10,6 +10,9 @@ Somewhere I can put all the helpful stuff I come across
 * [R4ds 2e](https://r4ds.hadley.nz/)
 * [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/)
 
+### General Python
+* [Python for Health Data Science](https://www.pythonhealthdatascience.com/content/front_page.html)
+
 ### Frameworks, checklists and coding practices
 * [Duck book](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) - Gov Analysis Function and Statistical Service
 
