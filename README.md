@@ -21,6 +21,7 @@ Somewhere I can put all the helpful stuff I come across, if you want to suggest 
 
 ### Stats and modelling
 * [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - very accessible stats videos
+* [Mastering Statistical Process Control Charts](https://anhoej.github.io/spc4hc/) - free book in progress on SPC in healthcare for analysts
 
 ### General computer science
 * [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Harvard's introduction to computer science, highly recommend
