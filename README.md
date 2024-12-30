@@ -1,6 +1,6 @@
 # Useful Resources
 
-Somewhere I can put all the helpful stuff I come across
+Somewhere I can put all the helpful stuff I come across, if you want to suggest a useful resource feel free to submit a pull request!
 
 ### Using Github
 * [Happy git with R](https://happygitwithr.com/) - how to get started with git and connect it to RStudio/Posit
@@ -24,6 +24,9 @@ Somewhere I can put all the helpful stuff I come across
 
 ### General computer science
 * [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Harvard's introduction to computer science, highly recommend
+
+### Teaching and learning
+* [Teaching Tech Together](https://teachtogether.tech/en/index.html) - recommended at NHS RPyCom conference
 
 ### NHS and Healthcare
 * [Kings Fund - The NHS Explained](https://www.kingsfund.org.uk/leadership-development/courses/nhs-explained-course)
