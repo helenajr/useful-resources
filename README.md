@@ -5,7 +5,6 @@ Somewhere I can put all the helpful stuff I come across, if you want to suggest 
 ### Using Git/Github
 * [Happy git with R](https://happygitwithr.com/) - how to get started with git and connect it to RStudio/Posit
 * [Big Book of Git](https://department-for-transport.github.io/big_book_of_git/) - Manual from the department for transport
-* [firstcontributions](https://github.com/firstcontributions/first-contributions) - how to contribute to someone else's repo
 
 ### General R
 * [R 4 Data Science 2e](https://r4ds.hadley.nz/) - the tidyverse bible, very accessible
@@ -36,3 +35,5 @@ Somewhere I can put all the helpful stuff I come across, if you want to suggest 
 ### Inspiration
 * [TidyTuesdays](https://github.com/rfordatascience/tidytuesday)
 * [Open Prescribing](https://openprescribing.net/) - Project to make publicly avaiable GP prescribing data as useful as possible.
+
+If you were ever to run out of resources, a huge list of free programming related e-books is available here(https://github.com/EbookFoundation/free-programming-books)
