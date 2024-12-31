@@ -18,7 +18,7 @@ Somewhere I can put all the helpful stuff I come across, if you want to suggest 
 
 ### Frameworks, checklists and coding practices
 * [Duck book](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) - Gov Analysis Function and Statistical Service
-* [DevOps for Data Science](https://do4ds.com/) - free book recommended on Gov data Science slack
+* [DevOps for Data Science](https://do4ds.com/) - free book recommended on Gov Data Science slack
 
 ### Stats and modelling
 * [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - very accessible stats videos
