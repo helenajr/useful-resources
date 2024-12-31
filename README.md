@@ -2,7 +2,7 @@
 
 Somewhere I can put all the helpful stuff I come across, if you want to suggest a useful resource feel free to submit a pull request!
 
-### Using Github
+### Using Git/Github
 * [Happy git with R](https://happygitwithr.com/) - how to get started with git and connect it to RStudio/Posit
 * [Big Book of Git](https://department-for-transport.github.io/big_book_of_git/) - Manual from the department for transport
 * [firstcontributions](https://github.com/firstcontributions/first-contributions) - how to contribute to someone else's repo
