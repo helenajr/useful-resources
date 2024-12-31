@@ -36,4 +36,4 @@ Somewhere I can put all the helpful stuff I come across, if you want to suggest 
 * [TidyTuesdays](https://github.com/rfordatascience/tidytuesday)
 * [Open Prescribing](https://openprescribing.net/) - Project to make publicly avaiable GP prescribing data as useful as possible.
 
-If you were ever to run out of resources, a huge list of free programming related e-books is available here(https://github.com/EbookFoundation/free-programming-books)
+If you were ever to run out of resources, a huge list of free programming related e-books is available here [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
