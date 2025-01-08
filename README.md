@@ -9,6 +9,7 @@ Somewhere I can put all the helpful stuff I come across, if you want to suggest 
 
 ### General R
 * [R 4 Data Science 2e](https://r4ds.hadley.nz/) - the tidyverse bible, very accessible :star:
+* [The R Workshop](http://www.r-workshop.org/) - Intro for complete beginners, explains the fundamentals
 * [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/)
 
 ### General Python
